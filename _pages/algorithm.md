@@ -1,5 +1,5 @@
 ---
-permalink: /category/algorithm/
+permalink: /categories/algorithm/
 title: "Algorithm"
 layout: category
 author_profile: true

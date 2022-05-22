@@ -242,7 +242,7 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
+        height: 2px;
         background: $primary-color;
         width: 100%;
         -webkit-transition: $global-transition;
@@ -568,6 +568,6 @@
   }
 
   li ul li ul li ul li ul li ul > li a {
-    padding-left: 3.25rem
+    padding-left: 3.25rem;
   }
 }

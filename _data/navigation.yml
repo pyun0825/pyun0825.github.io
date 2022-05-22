@@ -1,8 +1,10 @@
 # main links
 main:
   - title: "Algorithm"
-    url: /category/algorithm/
-  - title: "CS&Dev"
-    url: /category/cs/
+    url: /categories/algorithm/
+  - title: "CS"
+    url: /categories/cs/
+  - title: "Dev"
+    url: /categories/dev/
   - title: "Category"
-    url: /category/
+    url: /categories/

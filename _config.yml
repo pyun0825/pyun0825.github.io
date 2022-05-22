@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko-KR"
-title: "지식 저장소"
+title: "Pyun's ThinkTank"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "편장욱 (Jang Wook Pyun)"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name: "편장욱"
+  name: "Jang Wook Pyun"
   avatar: "assets/images/bio.jpg"
-  bio: "궁금하면 바로 찾아보는<br>백엔드 개발자 편장욱입니다!"
+  bio: "You reap what you sow"
   location: "Seoul, South Korea"
   email:
   links:
@@ -274,10 +274,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""
@@ -289,3 +290,4 @@ defaults:
       comments: false
       share: true
       related: false
+      show_date: true
