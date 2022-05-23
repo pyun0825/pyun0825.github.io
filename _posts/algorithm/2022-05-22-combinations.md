@@ -8,11 +8,15 @@ tags:
   - math
 ---
 
+## Problem Summary
+
 [백준 링크](https://www.acmicpc.net/problem/2407)
 
 n과 m이 주어지면 nCm을 출력해야하는 간단한 문제.
 
 푸는 로직은 정말 간단명료 했기 때문에 틀릴 이유가 없었으나 python의 특성을 몰라 초반에 삽질을 했었다.
+
+## What I Learned
 
 > 초반 코드
 
